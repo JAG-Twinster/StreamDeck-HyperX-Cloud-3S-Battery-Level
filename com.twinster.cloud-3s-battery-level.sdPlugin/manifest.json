@@ -13,10 +13,10 @@
       "DisableCaching": true,
       "UserTitleEnabled": false,
       "Tooltip": "Shows HyperX Cloud 3S Wireless battery level",
-      "UUID": "cloud-3s-battery-level.sdplugin"
+      "UUID": "com.twinster.cloud-3s-battery-level"
     }
   ],
-  "UUID": "cloud-3s-battery",
+  "UUID": "com.twinster.cloud-3s-battery-level",
   "Author": "Twinster",
   "Description": "HyperX Cloud 3S Wireless battery level on your Stream Deck",
   "Name": "HyperX Cloud 3S Battery",
